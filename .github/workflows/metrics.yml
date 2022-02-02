@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: thehobbit85
+          user: samholmes
           template: classic
           base: header, activity, community, repositories
           repositories_affiliations: owner, collaborator, organization_member
